@@ -1,0 +1,16 @@
+---
+ID: 3046
+post_title: '“Many are called, but few are chosen.” –Mt 22:14 #PrayWithoutCeasing'
+author: NY Conservative
+post_date: 2015-05-08 09:11:16
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.newyorkconservative.com/archives/%e2%80%9cmany-are-called-but-few-are-chosen-%e2%80%9d-%e2%80%93mt-2214-praywithoutceasing/
+published: true
+aktt_notify_twitter:
+  - 'yes'
+aktt_tweeted:
+  - "1"
+---
+<p><img src="http://www.newyorkconservative.com/wp-content/uploads/2015/05/050815_1311_Manyarecall1.jpg" alt=""/></p>
