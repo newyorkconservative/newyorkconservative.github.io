@@ -5,12 +5,12 @@ author: NY Conservative
 post_date: 2016-10-22 08:58:45
 post_excerpt: ""
 layout: post
-permalink: >
-  /archives/donald-trump-was-right-here-are-five-places-people-can-get-a-9-month-abortion-now/
+permalink: ""
 published: true
 amazonS3_cache:
   - 'a:4:{s:91:"https://www.newyorkconservative.com/wp-content/uploads/2012/08/082412_2152_BeingProLif1.jpg";i:2250;s:99:"https://www.newyorkconservative.com/wp-content/uploads/2012/08/082412_2152_BeingProLif1-300x228.jpg";i:2250;s:100:"https://s3.amazonaws.com/newyorkconservative/wp-content/uploads/2012/08/082412_2152_BeingProLif1.jpg";i:2250;s:108:"https://s3.amazonaws.com/newyorkconservative/wp-content/uploads/2012/08/082412_2152_BeingProLif1-300x228.jpg";i:2250;}'
-home_url: https://www.newyorkconservative.com
+wp_permalink: >
+  /archives/donald-trump-was-right-here-are-five-places-people-can-get-a-9-month-abortion-now/
 ---
 <a href="https://www.newyorkconservative.com/wp-content/uploads/2012/08/082412_2152_BeingProLif1.jpg" rel="attachment wp-att-2250"><img class="alignnone  wp-image-2250" src="https://www.newyorkconservative.com/wp-content/uploads/2012/08/082412_2152_BeingProLif1-300x228.jpg" alt="082412_2152_BeingProLif1.jpg" width="334" height="254" /></a>
 
