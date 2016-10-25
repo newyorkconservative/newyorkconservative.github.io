@@ -5,7 +5,6 @@ author: NY Conservative
 post_date: 2016-10-22 08:58:45
 post_excerpt: ""
 layout: post
-permalink: ""
 published: true
 amazonS3_cache:
   - 'a:4:{s:91:"https://www.newyorkconservative.com/wp-content/uploads/2012/08/082412_2152_BeingProLif1.jpg";i:2250;s:99:"https://www.newyorkconservative.com/wp-content/uploads/2012/08/082412_2152_BeingProLif1-300x228.jpg";i:2250;s:100:"https://s3.amazonaws.com/newyorkconservative/wp-content/uploads/2012/08/082412_2152_BeingProLif1.jpg";i:2250;s:108:"https://s3.amazonaws.com/newyorkconservative/wp-content/uploads/2012/08/082412_2152_BeingProLif1-300x228.jpg";i:2250;}'
