@@ -5,11 +5,7 @@ author: NY Conservative
 post_date: 2016-10-21 08:10:22
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.newyorkconservative.com/archives/is-the-system-rigged-you-betcha/
 published: true
-amazonS3_cache:
-  - 'a:2:{s:91:"https://www.newyorkconservative.com/wp-content/uploads/2015/07/070715_0105_Trumpismovi1.png";i:3318;s:100:"https://s3.amazonaws.com/newyorkconservative/wp-content/uploads/2015/07/070715_0105_Trumpismovi1.png";i:3318;}'
 ---
 <a href="https://www.newyorkconservative.com/wp-content/uploads/2015/07/070715_0105_Trumpismovi1.png" rel="attachment wp-att-3318"><img class="alignnone size-full wp-image-3318" src="https://www.newyorkconservative.com/wp-content/uploads/2015/07/070715_0105_Trumpismovi1.png" alt="070715_0105_Trumpismovi1.png" width="184" height="224" /></a>
 <div class="copy-paste-block">
