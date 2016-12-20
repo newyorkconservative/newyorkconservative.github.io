@@ -11,7 +11,7 @@ amazonS3_cache:
 wp_permalink: >
   /archives/christmas-market-carnage-afghan-refugee-ploughed-into-berlin-shoppers-killing-12-and-injuring-48/
 ---
-<a href="https://www.newyorkconservative.com/wp-content/uploads/2016/12/Berlin-2.jpg"><img class="alignnone  wp-image-4388" src="https://www.newyorkconservative.com/wp-content/uploads/2016/12/Berlin-2.jpg" alt="berlin-2" width="454" height="283" /></a>
+<a href="https://www.newyorkconservative.com/wp-content/uploads/2016/12/Berlin-2.jpg"><img class="alignnone wp-image-4388" src="https://www.newyorkconservative.com/wp-content/uploads/2016/12/Berlin-2.jpg" alt="berlin-2" width="548" height="343" /></a>
 <p class="mol-para-with-font">A refugee is thought to have been behind the wheel of a 25-tonne articulated lorry which mowed down and killed 12 people - and injured 48 others - as it sped at 40mph through a busy Christmas market in Berlin.</p>
 <p class="mol-para-with-font">The vehicle laden with steel cargo mounted the pavement before tearing through stalls and shoppers in the market on Breitscheidplatz Square, outside the Kaiser Wilhelm Memorial Church in the German capital's main shopping area.</p>
 <p class="mol-para-with-font">The man at the wheel - who according to German newspaper <a target="_blank">Berliner</a><a class="" href="http://www.berliner-zeitung.de/berlin/liveticker-verdaechtiger-afghane-wohl-als-fluechtling-eingereist-25341200" target="_blank" rel="nofollow"> </a>used different aliases, was of Afghan heritage and had arrived in Germany in February - fled the scene before being arrested at a nearby zoo.</p>
