@@ -16,4 +16,4 @@ wp_permalink: >
 <p class="mol-para-with-font">The vehicle laden with steel cargo mounted the pavement before tearing through stalls and shoppers in the market on Breitscheidplatz Square, outside the Kaiser Wilhelm Memorial Church in the German capital's main shopping area.</p>
 <p class="mol-para-with-font">The man at the wheel - who according to German newspaper <a target="_blank">Berliner</a><a class="" href="http://www.berliner-zeitung.de/berlin/liveticker-verdaechtiger-afghane-wohl-als-fluechtling-eingereist-25341200" target="_blank" rel="nofollow"> </a>used different aliases, was of Afghan heritage and had arrived in Germany in February - fled the scene before being arrested at a nearby zoo.</p>
 
-<div>http://www.dailymail.co.uk/news/article-4049442/Terror-attack-fears-lorry-ploughs-Christmas-market-Berlin-leaving-two-people-dead.html</div>
+<div><a href="http://www.dailymail.co.uk/news/article-4049442/Terror-attack-fears-lorry-ploughs-Christmas-market-Berlin-leaving-two-people-dead.html">http://www.dailymail.co.uk/news/article-4049442/Terror-attack-fears-lorry-ploughs-Christmas-market-Berlin-leaving-two-people-dead.html</a></div>
