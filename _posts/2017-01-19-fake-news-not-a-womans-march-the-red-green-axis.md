@@ -11,7 +11,7 @@ amazonS3_cache:
 wp_permalink: >
   /archives/fake-news-not-a-womans-march-the-red-green-axis/
 ---
-<a href="https://www.newyorkconservative.com/wp-content/uploads/2017/01/womans-march.png"><img class="alignnone  wp-image-4452" src="https://www.newyorkconservative.com/wp-content/uploads/2017/01/womans-march.png" alt="womans-march" width="346" height="368" /></a>
+<a href="https://www.newyorkconservative.com/wp-content/uploads/2017/01/womans-march.png"><img class="alignnone wp-image-4452" src="https://www.newyorkconservative.com/wp-content/uploads/2017/01/womans-march.png" alt="womans-march" width="346" height="368" /></a>
 
 On January 21<sup>st</sup> there will be a “Woman’s March” on Washington.
 
@@ -25,6 +25,6 @@ The first principle is something all Americans of good will can agree with,”na
 
 But then the principles quickly go off the rails and provided the “who’s who” of standard radical left wing causes - identify/fringe politics ( see 3), anti-family (see 2), anti-Christian (see 2), anti-American, anti-Police(see 4/5), pro-Abortion(see 6) – in almost every single one of the values/principles listed one can remove the word “women” and quickly find a radical left wing cause wrapped up as a woman’s issue – illegal immigration, unfettered third world immigration, communist and socialist agendas, LGBTQ anti-family and anti-Christian agendas, Muslim brotherhood (C.A.I.R) agendas and so forth and so on. The values and principles (14) even takes a shot at the 14<sup>th</sup> Amendment which is now in the cross-hairs of the radical left.
 
-In an era where Fake News is now the new hot topic of discussion it’s obvious that this Woman’s March "is not" a Womans March but a “Red-Green axis” circus that will be designed to attack everything traditional Americans stand for.
+In an era where Fake News is now the new hot topic of discussion it’s obvious that this Woman’s March "is not" a Womans March but a “Red-Green axis” circus that was be designed to attack everything traditional Americans stand for.
 
 .
