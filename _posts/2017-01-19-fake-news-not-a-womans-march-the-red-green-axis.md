@@ -1,6 +1,6 @@
 ---
 ID: 4454
-post_title: 'Fake News: Not a womans march &#8211; the Red-Green Axis'
+post_title: 'Fake News: Not a women&#8217;s march &#8211; the Red-Green Axis'
 author: John Smith
 post_date: 2017-01-19 09:26:45
 post_excerpt: ""
@@ -13,9 +13,9 @@ wp_permalink: >
 ---
 <a href="https://www.newyorkconservative.com/wp-content/uploads/2017/01/womans-march.png"><img class="alignnone wp-image-4452" src="https://www.newyorkconservative.com/wp-content/uploads/2017/01/womans-march.png" alt="womans-march" width="346" height="368" /></a>
 
-On January 21<sup>st</sup> there will be a “Woman’s March” on Washington.
+On January 21<sup>st</sup> there will be a “Women’s March” on Washington.
 
-This march though is not so much of a Woman’s March or a March of American woman as it is a conglomeration of anti-American, anti-Christian, anti-family and anti-Police movement’s jointly organized and setup to promote and push a hard left “<a href="https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/Red_Green_Axis.pdf">Red Green</a>” agenda, which as everyone knows, is designed to erase America.
+This march though is not so much of a Women’s March or a March of American women as it is a conglomeration of anti-American, anti-Christian, anti-family and anti-Police movement’s jointly organized and setup to promote and push a hard left “<a href="https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/Red_Green_Axis.pdf">Red Green</a>” agenda, which as everyone knows, is designed to erase America.
 
 The timing of the March is obviously directed at the new incoming administration, which also automatically shifts the march from being an “all inclusive” woman’s march to being a “left wing” woman’s March – further isolating half of the women in America who do not subscribe to the hard lefts agenda. For that I believe the march should not even be called a “womans march” as the language is not true and assumes that all women agree with the “Red-Green axis” and their radical anti-American left wing agenda.
 
