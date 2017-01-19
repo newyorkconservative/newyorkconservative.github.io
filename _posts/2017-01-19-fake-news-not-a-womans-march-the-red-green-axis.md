@@ -15,7 +15,7 @@ wp_permalink: >
 
 On January 21<sup>st</sup> there will be a “Women’s March” on Washington.
 
-This march though is not so much of a Women’s March or a March of American women as it is a conglomeration of anti-American, anti-Christian, anti-family and anti-Police movement’s jointly organized and setup to promote and push a hard left and violent “<a href="https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/Red_Green_Axis.pdf">Red Green</a>” agenda, which as everyone knows, is designed to erase America.
+This march though is not so much of a Women’s March or a March of American women as it is a conglomeration of anti-American, anti-Christian, anti-family and anti-Police movement’s jointly organized and setup to promote and push a hard left and violent “<a href="https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/Red_Green_Axis.pdf">Red Green</a>” agenda which at it's core is designed to erase America.
 
 The timing of the March is obviously directed at the new incoming administration, which also automatically shifts the march from being an “all inclusive” women’s march to being a “left wing” women’s March – further isolating half of the women in America who do not subscribe to the hard lefts violent agenda.
 
@@ -23,7 +23,7 @@ All one needs to do is casually leaf through their <a href="https://static1.squa
 
 The first principle is something all Americans of good will can agree with,”namely, <em>“We believe that Women’s Rights are Human Rights and Human Rights are Women’s Rights. This is the basic and original tenet from which all our values stem.”</em>
 
-But then the principles quickly go off the rails and provide the “who’s who” of radical left wing causes, many promoting violence - identify/fringe politics ( see 3), anti-family (see 2), anti-Christian (see 2), anti-American, anti-Police(see 4/5), pro-Abortion(see 6) – in almost every single one of the values/principles listed one can remove the word “women” and quickly find a radical left wing cause wrapped up as a woman’s issue – illegal immigration, unfettered third world immigration, communist and socialist agendas, LGBTQ anti-family and anti-Christian agendas, Muslim brotherhood (C.A.I.R) agendas and so forth and so on. The values and principles (14) even takes a shot at the 14<sup>th</sup> Amendment which is now in the cross-hairs of the radical left.
+But then the principles quickly go off the rails and provide the “who’s who” of radical left wing causes, many promoting violence - identify/fringe politics ( see 3), anti-family (see 2), anti-Christian (see 2), anti-American, anti-Police(see 4/5), pro-Abortion(see 6) – in almost every single one of the values/principles listed one can remove the word “women” and quickly find a radical left wing cause wrapped up as a woman’s issue – illegal immigration, unfettered third world immigration, communist and socialist agendas, LGBTQ anti-family and anti-Christian agendas, even agenda items of the Muslim brotherhood (C.A.I.R) - so forth and so on. The values and principles section (14) even takes a shot at the 14<sup>th</sup> Amendment which is now in the cross-hairs of the radical left.
 
 In an era where Fake News is now the new hot topic of discussion it’s obvious that this Women’s March "is not" a Womens March but a “Red-Green axis” circus that was designed to attack everything traditional Americans - men and women - stand for.
 
