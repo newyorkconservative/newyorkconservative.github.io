@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 published: true
 amazonS3_cache:
-  - 'a:4:{s:97:"https://s3.amazonaws.com/newyorkconservative/wp-content/uploads/2017/01/17231210/womans-march.png";s:4:"4452";s:79:"https://www.newyorkconservative.com/wp-content/uploads/2017/01/womans-march.png";s:4:"4452";s:85:"https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/Red_Green_Axis.pdf";a:1:{s:9:"timestamp";i:1484836951;}s:156:"https://static1.squarespace.com/static/584086c7be6594762f5ec56e/t/5877e236cd0f68f052043067/1484251705644/WMW+Guiding+Vision+%26+Definition+of+Principles.pdf";a:1:{s:9:"timestamp";i:1484836951;}}'
+  - 'a:4:{s:97:"https://s3.amazonaws.com/newyorkconservative/wp-content/uploads/2017/01/17231210/womans-march.png";s:4:"4452";s:79:"https://www.newyorkconservative.com/wp-content/uploads/2017/01/womans-march.png";s:4:"4452";s:85:"https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/Red_Green_Axis.pdf";a:1:{s:9:"timestamp";i:1484849485;}s:156:"https://static1.squarespace.com/static/584086c7be6594762f5ec56e/t/5877e236cd0f68f052043067/1484251705644/WMW+Guiding+Vision+%26+Definition+of+Principles.pdf";a:1:{s:9:"timestamp";i:1484849485;}}'
 wp_permalink: >
   /archives/fake-news-not-a-womans-march-the-red-green-axis/
 ---
@@ -15,7 +15,7 @@ wp_permalink: >
 
 On January 21<sup>st</sup> there will be a “Women’s March” on Washington.
 
-This march though is not so much of a Women’s March or a March of American women as it is a conglomeration of anti-American, anti-Christian, anti-family and anti-Police movement’s jointly organized and setup to promote and push a hard left “<a href="https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/Red_Green_Axis.pdf">Red Green</a>” agenda, which as everyone knows, is designed to erase America.
+This march though is not so much of a Women’s March or a March of American women as it is a conglomeration of anti-American, anti-Christian, anti-family and anti-Police movement’s jointly organized and setup to promote and push a hard left and violent “<a href="https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/Red_Green_Axis.pdf">Red Green</a>” agenda, which as everyone knows, is designed to erase America.
 
 The timing of the March is obviously directed at the new incoming administration, which also automatically shifts the march from being an “all inclusive” women’s march to being a “left wing” women’s March – further isolating half of the women in America who do not subscribe to the hard lefts agenda. For that I believe the march should not even be called a “womens march” as the language is not true and assumes that all women agree with the “Red-Green axis” and their radical anti-American left wing agenda.
 
