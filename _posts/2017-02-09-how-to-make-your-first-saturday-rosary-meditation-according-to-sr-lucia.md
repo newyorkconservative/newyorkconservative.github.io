@@ -1,8 +1,6 @@
 ---
 ID: 4512
-post_title: >
-  How to Make Your First Saturday Rosary
-  Meditation According to Sr. Lucia
+post_title: 'Fatima 100 Years: How to Make Your First Saturday Rosary Meditation According to Sr. Lucia'
 author: John Smith
 post_date: 2017-02-09 12:59:30
 post_excerpt: ""
