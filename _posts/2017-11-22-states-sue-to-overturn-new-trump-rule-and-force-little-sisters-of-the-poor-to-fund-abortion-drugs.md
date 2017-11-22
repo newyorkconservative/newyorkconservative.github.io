@@ -14,7 +14,7 @@ amazonS3_cache:
 wp_permalink: >
   /archives/states-sue-to-overturn-new-trump-rule-and-force-little-sisters-of-the-poor-to-fund-abortion-drugs/
 ---
-<a href="https://www.newyorkconservative.com/wp-content/uploads/2015/07/072415_2015_Christiansi1.jpg"><img class="alignnone  wp-image-3458" src="https://www.newyorkconservative.com/wp-content/uploads/2015/07/072415_2015_Christiansi1-300x161.jpg" alt="072415_2015_Christiansi1.jpg" width="537" height="288" /></a>
+<a href="https://www.newyorkconservative.com/wp-content/uploads/2015/07/072415_2015_Christiansi1.jpg"><img class="alignnone wp-image-3458" src="https://www.newyorkconservative.com/wp-content/uploads/2015/07/072415_2015_Christiansi1-300x161.jpg" alt="072415_2015_Christiansi1.jpg" width="431" height="231" /></a>
 
 As LifeNews reported, President Donald Trump signed a religious liberty executive order that would protect Christian organizations like the Little Sisters of the Poor from being forced to pay for abortions.
 
