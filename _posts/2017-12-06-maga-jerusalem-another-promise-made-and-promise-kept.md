@@ -1,6 +1,6 @@
 ---
 ID: 4594
-post_title: '#MAGA Jerusalem: Another Promise Made and Promise Kept'
+post_title: 'Jerusalem: Another Promise Made and Promise Kept'
 author: John Smith
 post_date: 2017-12-06 20:56:01
 post_excerpt: ""
@@ -11,7 +11,7 @@ amazonS3_cache:
 wp_permalink: >
   /archives/maga-jerusalem-another-promise-made-and-promise-kept/
 ---
-<a href="https://www.newyorkconservative.com/wp-content/uploads/2017/12/jersulalem.jpg"><img class="alignnone  wp-image-4595" src="https://www.newyorkconservative.com/wp-content/uploads/2017/12/jersulalem.jpg" alt="jersulalem" width="434" height="283" /></a>
+<a href="https://www.newyorkconservative.com/wp-content/uploads/2017/12/jersulalem.jpg"><img class="alignnone wp-image-4595" src="https://www.newyorkconservative.com/wp-content/uploads/2017/12/jersulalem.jpg" alt="jersulalem" width="434" height="283" /></a>
 
 NEW YORK, NY – Following President Trump’s proclamation today that his administration will officially recognize Jerusalem as the Capital of Israel and begin the process of moving the U.S. Embassy in Israel to Jerusalem, Michael S. Glassner, Executive Director of Donald J. Trump for President, Inc., issued the following statement:
 
