@@ -1,6 +1,6 @@
 ---
 ID: 4594
-post_title: 'Jerusalem: Another Promise Made and Promise Kept'
+post_title: 'Jerusalem: Another Trump Promise Made and Promise Kept'
 author: John Smith
 post_date: 2017-12-06 20:56:01
 post_excerpt: ""
