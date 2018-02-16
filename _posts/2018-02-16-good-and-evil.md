@@ -24,7 +24,7 @@ Yesterday the New York Post listed the five worst school shootings in US history
 
 5 – 1999 - Columbine Massacre – <em>(13 people killed)</em>
 
-Of the five worse school shootings in US history 4 of them have happened since 1999 and the top three happened over the last 11 years. These evil massacres – overshadow some of the most historical bloodbaths in American history – and by a lot. Take the Boston Massacre of 1770 for example - 5 civilians died. In the infamous Valentine’s Day Massacre of 1929 - 7 people were killed.
+Of the five worst school shootings in US history 4 of them have happened since 1999 and the top three happened over the last 11 years. These evil massacres – overshadow some of the most historical bloodbaths in American history – and by a lot. Take the Boston Massacre of 1770 for example - 5 civilians died. In the infamous Valentine’s Day Massacre of 1929 - 7 people were killed.
 
 The Daily News reported yesterday that in the <em><u>first 45 days of 2018 there have been 18 school shootings</u></em> across the United States alone.
 
