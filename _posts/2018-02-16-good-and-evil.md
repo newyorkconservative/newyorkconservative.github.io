@@ -12,7 +12,7 @@ wp_permalink: /archives/good-and-evil/
 ---
 <a href="https://www.newyorkconservative.com/wp-content/uploads/2018/02/goodandevil.jpg"><img class="alignnone size-full wp-image-4617" src="https://www.newyorkconservative.com/wp-content/uploads/2018/02/goodandevil.jpg" alt="goodandevil" width="230" height="219" /></a>
 
-Yesterday the New York Post listed the five worse school shootings in US history:
+Yesterday the New York Post listed the five worst school shootings in US history:
 
 1 – 2007 - Virginia Tech University <em>(32 people killed)</em>
 
