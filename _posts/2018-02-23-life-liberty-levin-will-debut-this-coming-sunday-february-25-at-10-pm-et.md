@@ -1,6 +1,6 @@
 ---
 ID: 4628
-post_title: 'Life, Liberty &#038; Levin, will debut this coming Sunday, February 25, at 10 PM ET'
+post_title: 'Life, Liberty &#038; Levin debuts Sunday, February 25, at 10 PM ET'
 author: John Smith
 post_date: 2018-02-23 22:32:10
 post_excerpt: ""
