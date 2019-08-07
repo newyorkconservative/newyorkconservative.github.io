@@ -50,7 +50,7 @@ post_date: 2019-08-07 16:10:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Both DuckDuckGo and Firefox are committed to data privacy and have business models where the users personal information is not the end product.</p>
+<p>Both DuckDuckGo and Firefox are committed to data privacy and have business models where the users privacy and personal information is not the end product.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
