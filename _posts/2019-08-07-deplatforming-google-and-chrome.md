@@ -14,7 +14,11 @@ post_date: 2019-08-07 16:10:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Google, Facebook and Twitter are all controlled by leftists that are undermining our Freedom of Speech, Censoring us and wielding way too much power in terms of controlling and steering the political discourse in our Country. Check out the Tucker Carlson show for the details. He has done a tremendous job in covering the "Tech Tyranny."<br></p>
+<p>Google, Facebook and Twitter are all controlled by leftists that are undermining our sacred Freedom of Speech, censoring us and wielding way too much power in terms of controlling and steering the political discourse in our Country. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Check out the Tucker Carlson show for the details. He has done a tremendous job in covering the "Tech Tyranny."<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
