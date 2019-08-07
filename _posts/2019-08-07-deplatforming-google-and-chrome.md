@@ -42,11 +42,11 @@ post_date: 2019-08-07 16:10:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For search I have decided to go with DuckDuckGo https://duckduckgo.com/</p>
+<p>For search I have decided to go with DuckDuckGo <a href="https://duckduckgo.com/">https://duckduckgo.com/</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For my browser I have decided to go with Mozilla Firefox https://www.mozilla.org/en-US/firefox/new/</p>
+<p>For my browser I have decided to go with Mozilla Firefox <a href="https://www.mozilla.org/en-US/firefox/new/">https://www.mozilla.org/en-US/firefox/new/</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
