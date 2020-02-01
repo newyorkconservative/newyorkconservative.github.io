@@ -39,6 +39,8 @@ post_date: 2018-08-25 00:17:23
 <p>I tried to retweet something and saw the following message -</p>
 <p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/IMG_0157.png"><img class="size-medium wp-image-4841 aligncenter" src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/IMG_0157-169x300.png" alt="" width="169" height="300" /></a></p>
 <p>On a major news day my account was suspended and for no reason. I received no warnings.</p>
+<p>Nothing that I wrote violated the twitter terms and services -</p>
+<p>https://help.twitter.com/en/rules-and-policies/twitter-rules</p>
 <p>I sent an email to twitter and they are looking into the situation.</p>
 <p>I have to add that for any of the above mentioned times that my account was locked out there was never a reason. Which is strange because if there was some tweet in particular or some behavior that I was engaging in I would think the company would let me know so that I do not repeat it. But all they do is send a link with their terms and conditions.</p>
 <p>I would assume that it is specifically vague so that they can censor things they disagree with from a personal standpoint.</p>
