@@ -39,14 +39,16 @@ post_date: 2018-08-25 00:17:23
 <p>I want to be able to continue to use twitter but also would not want my cell phone listed.</p>
 <p>Why is this now happening to my account?</p>
 <p>Also I do not think it is fair that any user can do this to another user just because they do not like what the user is saying."</p>
-<p>10. On January 31st my twitter account was suspended for the first time. I was using my account a good amount on the night of January 30th and I looked at my account the morning of January 31st.</p>
+<p>10. On January 31st 2020 my twitter account was suspended for the first time. I was using my account a good amount on the night of January 30th and I looked at my account the morning of January 31st.</p>
 <p>When I checked my account around noon on January 31st I saw that I had no followers and was not following anyone.</p>
 <p>I tried to retweet something and saw the following message -</p>
 <p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/IMG_0157.png"><img class="size-medium wp-image-4841 aligncenter" src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/IMG_0157-169x300.png" alt="" width="169" height="300" /></a></p>
 <p>On a major news day my account was suspended and for no reason. I received no warnings.</p>
 <p>I sent an email to twitter and they are looking into the situation.</p>
 <p>I have to add that for any of the above mentioned times that my account was locked out there was never a reason. Which is strange because if there was some tweet in particular or some behavior that I was engaging in I would think the company would let me know so that I do not repeat it. But all they do is send a link with their terms and conditions.</p>
-<p>I would assume that it is specifically vague so that they can censor things they disagree with from a personal standpoint. </p>
+<p>I would assume that it is specifically vague so that they can censor things they disagree with from a personal standpoint.</p>
+<p>Although I use twitter heavily to get news and provide comments I am planning on leaving the platform altogether once Trump wins re-election in 2020.</p>
+<p>It is obvious that the company wants to be a left leaning content provider much more than it wants to be a forum for the information sharing of different and competing ideas.</p>
 <p>I will update this thread when I hear more....</p>
 
 <!-- wp:paragraph -->
