@@ -1,6 +1,6 @@
 ---
 ID: 4701
-post_title: '2020 &#8211; On an exponentially larger scale &#8211; Big Tech is doing to Trump supporters what what Obama&#8217;s IRS did to Tea Party activists in 2012'
+post_title: '2020 &#8211; On an exponentially larger scale &#8211; Big Tech is doing to Trump supporters what Obama&#8217;s IRS did to Tea Party activists in 2012'
 author: John Smith
 post_excerpt: ""
 layout: post
