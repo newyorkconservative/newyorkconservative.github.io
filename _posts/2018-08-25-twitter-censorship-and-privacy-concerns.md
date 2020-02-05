@@ -46,9 +46,12 @@ post_date: 2018-08-25 00:17:23
 <p>I would assume that it is specifically vague so that they can censor things they disagree with from a personal standpoint.</p>
 <p>Twitter can talk all it wants to about the "conversation" but it is obvious that the company wants to be a left leaning content provider much more than it wants to be a forum for the information sharing of different and competing ideas.</p>
 <p>I will update this thread when I hear more....</p>
-<p>On Tuesday February 4th twitter support came back with the following communication in response to my appeal - essentially there was no response - again - they did not provide a real reason why my account was suspended - only that it was suspended. </p>
+<p>On Tuesday February 4th twitter support came back with the following communication in response to my appeal - essentially there was no response - again - they did not provide a real reason why my account was suspended - only that it was suspended.</p>
 <p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/twitter-one-email.png"><img class="size-medium wp-image-4863 aligncenter" src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/twitter-one-email-169x300.png" alt="" width="169" height="300" /></a>So it didn't matter that leftist trolls were many times the root cause. It didn't matter that they were publishing fake information that my account was a bot even though twitter had me verify many times over that I was not a bot.</p>
-<p>10.</p>
+<p>10. I have to now say a few words - the tweet below was from @nyc_2018 who was suspended from the platform - this is essentially the quality and types of tweets that account would share -</p>
+<p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/nyc_2018-tweets.png"><img class="size-medium wp-image-4862 aligncenter" src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/nyc_2018-tweets-169x300.png" alt="" width="169" height="300" /></a></p>
+<p>Yet some how the below thread passes what is considered quality dialogue at twitter:</p>
+<p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/harrassment.png"><img class="size-medium wp-image-4864 aligncenter" src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/harrassment-169x300.png" alt="" width="169" height="300" /></a></p>
 <p> </p>
 
 <!-- wp:paragraph -->
