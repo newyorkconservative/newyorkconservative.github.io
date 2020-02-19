@@ -18,7 +18,7 @@ post_date: 2020-02-19 07:08:45
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>"We the Living is not a story about SOviet Russia in 1925. It is a story about dictatorship,  any dictatorship, anywhere, at any time, whether it be Soviet Russia, Nazi Germany, or - which this novel might do its share to prevent - a socialist  America." -Ayn Rand #NYCBKCLUB #WetheLiving     </p>
+<p>"We the Living is not a story about Soviet Russia in 1925. It is a story about dictatorship,  any dictatorship, anywhere, at any time, whether it be Soviet Russia, Nazi Germany, or - which this novel might do its share to prevent - a socialist  America." -Ayn Rand #NYCBKCLUB #WetheLiving     </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
