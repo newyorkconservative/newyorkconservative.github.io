@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2018-08-25 00:17:23
 ---
-<p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/censored-content-google-facebook-twitter-400x205.jpg"><img class="alignnone wp-image-4739" src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/censored-content-google-facebook-twitter-400x205-300x154.jpg" alt="" width="300" height="154" /></a></p>
-<p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/06/WUT.png"><img class="alignnone wp-image-4681" src="https://www.newyorkconservative.com/wp-content/uploads/2018/06/WUT-169x300.png" alt="" width="178" height="316" /></a></p>
-<p> </p>
+<p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/censored-content-google-facebook-twitter-400x205.jpg"><img class="alignnone wp-image-4739" src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/censored-content-google-facebook-twitter-400x205-300x154.jpg" alt="" width="300" height="154"></a></p>
+<p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/06/WUT.png"><img class="alignnone wp-image-4681" src="https://www.newyorkconservative.com/wp-content/uploads/2018/06/WUT-169x300.png" alt="" width="178" height="316"></a></p>
+<p></p>
 <p>Here is a list of things that i have experienced on twitter - who knows what other things are being done that I have not experienced but are happening -</p>
 <p>1. Twitter automatically unfollowed conservatives that I was following, it most likely did the same to those who were following me</p>
 <p>2. Twitter limited some of my account features, see the picture above, because of the following tweet -</p>
@@ -21,7 +21,7 @@ post_date: 2018-08-25 00:17:23
 <p>4. Twitter automatically set my cell phone in my account settings even though I deliberately deleted it out - this is a massive privacy violation because accounts get hacked from time to time and our cell phone # is almost as valuable as our social security number.</p>
 <p>5. There were other privacy settings that were tweaked in my iPhone even though I know as a matter of fact I had set them to the most private settings. So now I periodically check my privacy settings.</p>
 <p>6. Twitter periodically removes my pinned tweet - could be a bug but I doubt it.</p>
-<p>7. A friend setup a new twitter account - registering they wanted to use their email instead of their cell phone - after they configured their account they logged in and started following some popular conservatives - they were immediately flagged for unusual behavior and locked out - the unusual behavior that was exhibited was following popular conservatives - prior to that there were no issues with the account</p>
+<p>7.&nbsp;A friend setup a new twitter account - registering they wanted to use their email instead of their cell phone - after they configured their account they logged in and started following some popular conservatives - they were immediately flagged for unusual behavior and locked out - the unusual behavior that was exhibited was following popular conservatives - prior to that there were no issues with the account</p>
 <p>8. On October 8th 2018, and the days after, it was widely reported by various conservatives, including myself, that people were losing a large amount of followers, there were some rumors that accounts were being purged of "bots" but that was definitely not the case - there is most likely no coincidence that this is happening only a few weeks before a critical mid-term election that could decide the fate of the Trump Presidency</p>
 <p>9. On September 28th my twitter account was locked out - apparently someone decided to report me to #ReportTheBot - now I cannot use twitter without not only entering my cell phone but <em><strong>keeping it listed in my account</strong></em>. So as soon as I remove my cell phone my account is locked out and I have to re-verify and re-enter it.</p>
 <p>So this is pretty amazing - someone is able to randomly report me and then twitter takes that info without any real validation and reduces my privacy capabilities.</p>
@@ -35,10 +35,15 @@ post_date: 2018-08-25 00:17:23
 <p>10. On January 31st 2020 my twitter account was suspended for the first time. I was using my account a good amount on the night of January 30th and I looked at my account the morning of January 31st.</p>
 <p>When I checked my account around noon on January 31st I saw that I had no followers and was not following anyone.</p>
 <p>I tried to retweet something and saw the following message -</p>
-<p><!-- wp:image {"id":4961,"sizeSlug":"large"} --></p>
+<p></p>
+
+<!-- wp:image {"id":4961,"sizeSlug":"large"} -->
+</p>
 <figure class="wp-block-image size-large"><img class="wp-image-4961 aligncenter" src="https://www.newyorkconservative.com/wp-content/uploads/2020/02/IMG_0157-576x1024.png" alt="" width="392" height="697" /></figure>
-<p><!-- /wp:image --></p>
-<p> </p>
+<p>
+<!-- /wp:image -->
+
+<p></p>
 <p>On a major news day my account was suspended and for no reason. I received no warnings.</p>
 <p>Nothing that I wrote violated the twitter terms and services -</p>
 <p>https://help.twitter.com/en/rules-and-policies/twitter-rules</p>
@@ -52,9 +57,9 @@ post_date: 2018-08-25 00:17:23
 <p>On Tuesday February 4th twitter support came back with the following communication in response to my appeal - essentially there was no response - again - they did not provide a real reason why my account was suspended - only that it was suspended.</p>
 <p>So it didn't matter that leftist trolls were many times the root cause. It didn't matter that they were publishing fake information that my account was a bot even though twitter had me verify many times over that I was not a bot.</p>
 <p>10. On twitter left wing hostility and disrespect pass for participating in "the big conversation" but Trump supporters are constantly flagged and harassed for speech leftists simply disagree with - the tweet below was from @nyc_2018 the account suspended by the platform - this is essentially the quality and types of tweets that account would share -</p>
-<p> </p>
+<p></p>
 <p>Yet some how the below thread passes what is considered quality dialogue at twitter:</p>
-<p> </p>
+<p></p>
 
 <!-- wp:image {"id":4963,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://www.newyorkconservative.com/wp-content/uploads/2020/02/elie-wiesel-3-576x1024.png" alt="" class="wp-image-4963"/></figure>
@@ -76,8 +81,8 @@ post_date: 2018-08-25 00:17:23
 <p>I tend to post clips and snippets of quotes I like - one being snippets of President Donald J  Trumps Inaugural Address. And the "Resistance trolls" have started their attacks:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img/></figure>
+<!-- wp:image {"id":4971,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.newyorkconservative.com/wp-content/uploads/2020/02/Bot-Sentinel-2-scaled.jpg" alt="" class="wp-image-4971"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":4966,"sizeSlug":"large"} -->
