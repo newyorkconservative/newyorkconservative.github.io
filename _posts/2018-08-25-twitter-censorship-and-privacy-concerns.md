@@ -51,21 +51,30 @@ post_date: 2018-08-25 00:17:23
 <p>10. On twitter left wing hostility and disrespect pass for participating in "the big conversation" but Trump supporters are constantly flagged and harassed for speech leftists simply disagree with - the tweet below was from @nyc_2018 the account suspended by the platform - this is essentially the quality and types of tweets that account would share -</p>
 <p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/nyc_2018-tweets.png"><img class="size-medium wp-image-4862 aligncenter" src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/nyc_2018-tweets-169x300.png" alt="" width="169" height="300" /></a></p>
 <p>Yet some how the below thread passes what is considered quality dialogue at twitter:</p>
-<p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/harrassment.png"><img class="size-medium wp-image-4864 aligncenter" src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/harrassment-169x300.png" alt="" width="169" height="300" /></a></p>
+
+<!-- wp:image {"id":4959,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.newyorkconservative.com/wp-content/uploads/2020/02/elie-wiesel-2-576x1024.png" alt="" class="wp-image-4959"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
 <p>The new twitter terms of services is designed to arbitrarily shut down, censor and muffle Trump supporters and those that do not subscribe to the leftist agenda. Conservatives need to be looking "right now" at different ways of using communication platforms and the internet to get out their message - if they rely too much on google, facebook or twitter it is gong to hurt them big time leading into the 2020 race.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>As leftists get more and more desperate I expect their surrogates in the tech world to get more and more brazen and you can expect more prominent conservatives to get censored, suspended and shut down in the coming weeks.</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>Google Censorship</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"ordered":true} -->
-<ol><li>On my desktop I use Google Chrome, on my phone I use DuckDuckGo with Safari - I noticed that when searching for the following book&nbsp;in Amazon that Google Chrome censored the following image even though it was available both on IE as well as Safari -</li></ol>
-<!-- /wp:list -->
-
 <!-- wp:image {"id":4741,"linkDestination":"custom"} -->
 <figure class="wp-block-image"><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/410ZeTXBCgL__SY346_.jpg"><img src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/410ZeTXBCgL__SY346_-199x300.jpg" alt="" class="wp-image-4741"/></a></figure>
 <!-- /wp:image -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>On my desktop I use Google Chrome, on my phone I use DuckDuckGo with Safari - I noticed that when searching for the following book&nbsp;in Amazon that Google Chrome censored the following image even though it was available both on IE as well as Safari -</li></ol>
+<!-- /wp:list -->
 
 <!-- wp:paragraph -->
 <p></p>
