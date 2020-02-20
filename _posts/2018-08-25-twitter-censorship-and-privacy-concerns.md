@@ -35,7 +35,10 @@ post_date: 2018-08-25 00:17:23
 <p>10. On January 31st 2020 my twitter account was suspended for the first time. I was using my account a good amount on the night of January 30th and I looked at my account the morning of January 31st.</p>
 <p>When I checked my account around noon on January 31st I saw that I had no followers and was not following anyone.</p>
 <p>I tried to retweet something and saw the following message -</p>
-<p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/IMG_0157.png"><img class="size-medium wp-image-4841 aligncenter" src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/IMG_0157-169x300.png" alt="" width="169" height="300" /></a></p>
+<p><!-- wp:image {"id":4961,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><img class="wp-image-4961 aligncenter" src="https://www.newyorkconservative.com/wp-content/uploads/2020/02/IMG_0157-576x1024.png" alt="" width="444" height="789" /></figure>
+<p><!-- /wp:image --></p>
+<p> </p>
 <p>On a major news day my account was suspended and for no reason. I received no warnings.</p>
 <p>Nothing that I wrote violated the twitter terms and services -</p>
 <p>https://help.twitter.com/en/rules-and-policies/twitter-rules</p>
@@ -49,8 +52,15 @@ post_date: 2018-08-25 00:17:23
 <p>On Tuesday February 4th twitter support came back with the following communication in response to my appeal - essentially there was no response - again - they did not provide a real reason why my account was suspended - only that it was suspended.</p>
 <p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/twitter-one-email.png"><img class="size-medium wp-image-4863 aligncenter" src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/twitter-one-email-169x300.png" alt="" width="169" height="300" /></a>So it didn't matter that leftist trolls were many times the root cause. It didn't matter that they were publishing fake information that my account was a bot even though twitter had me verify many times over that I was not a bot.</p>
 <p>10. On twitter left wing hostility and disrespect pass for participating in "the big conversation" but Trump supporters are constantly flagged and harassed for speech leftists simply disagree with - the tweet below was from @nyc_2018 the account suspended by the platform - this is essentially the quality and types of tweets that account would share -</p>
-<p><a href="https://www.newyorkconservative.com/wp-content/uploads/2018/08/nyc_2018-tweets.png"><img class="size-medium wp-image-4862 aligncenter" src="https://www.newyorkconservative.com/wp-content/uploads/2018/08/nyc_2018-tweets-169x300.png" alt="" width="169" height="300" /></a></p>
+<p> </p>
 <p>Yet some how the below thread passes what is considered quality dialogue at twitter:</p>
+<p> </p>
+<p> </p>
+<p> </p>
+
+<!-- wp:image {"id":4961,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.newyorkconservative.com/wp-content/uploads/2020/02/IMG_0157-576x1024.png" alt="" class="wp-image-4961"/></figure>
+<!-- /wp:image -->
 
 <!-- wp:image {"id":4959,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://www.newyorkconservative.com/wp-content/uploads/2020/02/elie-wiesel-2-576x1024.png" alt="" class="wp-image-4959"/></figure>
