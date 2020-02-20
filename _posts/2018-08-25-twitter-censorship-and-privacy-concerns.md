@@ -94,7 +94,7 @@ post_date: 2018-08-25 00:17:23
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Here is another technique leftists use to silence those they disagree with - they create left wing companies like "Bot Sentinel" https://botsentinel.com/ which are supposed to be the authority on bots but are really just discrimination engines that put accounts of folks like me that use #MAGA, #KAG2020 etc. etc. into the "Bot Bucket" - then other trolls on twitter use them to attack conservative accounts.</p>
+<p>Here is another technique leftists use to silence those they disagree with - they create left wing companies like "Bot Sentinel" https://botsentinel.com/ which are supposed to be the authority on bots but are really just discrimination engines that put accounts of folks like mine that use #MAGA, #KAG2020 etc. etc. into the "Bot Bucket" - then other trolls on twitter use them to attack conservative accounts.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4971,"sizeSlug":"large"} -->
@@ -106,8 +106,14 @@ post_date: 2018-08-25 00:17:23
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p></p>
+<p>This is another great article I found today on how "Bot Sentinel" has been working to shut down conservatives -</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:core-embed/wordpress {"url":"https://thedailycoin.org/2018/07/08/the-mass-awakening-in-the-viral-walkaway-movement-is-panicking-democrats/","type":"wp-embed","providerNameSlug":"the-daily-coin","className":""} -->
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-the-daily-coin"><div class="wp-block-embed__wrapper">
+https://thedailycoin.org/2018/07/08/the-mass-awakening-in-the-viral-walkaway-movement-is-panicking-democrats/
+</div></figure>
+<!-- /wp:core-embed/wordpress -->
 
 <!-- wp:paragraph -->
 <p>Google Censorship</p>
