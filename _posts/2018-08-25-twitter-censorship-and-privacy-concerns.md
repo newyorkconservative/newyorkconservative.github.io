@@ -74,11 +74,27 @@ post_date: 2018-08-25 00:17:23
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>11. This month I started a new account - I figured I would change things up a little bit - rather than getting involved in the "Big Conversation" I would stop following people who I politically disagree with refrain from making comments to them, lest I get driven off of the platform again, and just stick with my favorite Conservative political commentators. Well it did not take long to start getting into trouble. </p>
+<p>11. This month I started a new account - I figured I would change things up a little bit - rather than getting involved in the "Big Conversation" I would stop following people who I politically disagree with, refrain from making comments to them lest I get driven off of the platform again, and just stick with my favorite Conservative political commentators. Well it did not take long to start getting into trouble. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I tend to post clips and snippets of quotes I like - one being snippets of President Donald J  Trumps Inaugural Address. And the "Resistance trolls" have started their attacks:</p>
+<p>I tend to post clips and snippets of quotes I like - one being snippets of President Donald J  Trumps Inaugural Address. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And the "Resistance trolls" have already started their attacks. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here is another technique leftists use to silence those they disagree with - they create left wing companies like "Bot Sentinel" https://botsentinel.com/ which are supposed to be the authority on bots but are really just discrimination engines that put accounts of folks like me that use #MAGA, #KAG2020 etc. etc. into the "Bot Bucket" - then other trolls on twitter use them to attack conservative accounts.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4971,"sizeSlug":"large"} -->
