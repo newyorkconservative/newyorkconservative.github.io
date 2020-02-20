@@ -69,7 +69,7 @@ post_date: 2018-08-25 00:17:23
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>11. This month I started a new account - I figured I would change things up a little bit - rather than getting involved in the "Big Conversation" I would stop following people who I politically disagree with and just stick with my favorite Conservative political commentators. Well it did not take long to start getting into trouble. </p>
+<p>11. This month I started a new account - I figured I would change things up a little bit - rather than getting involved in the "Big Conversation" I would stop following people who I politically disagree with refrain from making comments to them, lest I get driven off of the platform again, and just stick with my favorite Conservative political commentators. Well it did not take long to start getting into trouble. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -77,7 +77,7 @@ post_date: 2018-08-25 00:17:23
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="blob:https://www.newyorkconservative.com/5a05bfba-a70b-45fc-bd00-d166a7c25e1e"/></figure>
+<figure class="wp-block-image size-large"><img/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":4966,"sizeSlug":"large"} -->
