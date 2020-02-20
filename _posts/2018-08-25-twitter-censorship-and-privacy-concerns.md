@@ -56,8 +56,8 @@ post_date: 2018-08-25 00:17:23
 <p>Yet some how the below thread passes what is considered quality dialogue at twitter:</p>
 <p> </p>
 
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="blob:https://www.newyorkconservative.com/4f948bd2-746a-457b-86ee-0412cdbaf915" alt=""/></figure>
+<!-- wp:image {"id":4963,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.newyorkconservative.com/wp-content/uploads/2020/02/elie-wiesel-3-576x1024.png" alt="" class="wp-image-4963"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -66,6 +66,26 @@ post_date: 2018-08-25 00:17:23
 
 <!-- wp:paragraph -->
 <p>As leftists get more and more desperate I expect their surrogates in the tech world to get more and more brazen and you can expect more prominent conservatives to get censored, suspended and shut down in the coming weeks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. This month I started a new account - I figured I would change things up a little bit - rather than getting involved in the "Big Conversation" I would stop following people who I politically disagree with and just stick with my favorite Conservative political commentators. Well it did not take long to start getting into trouble. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I tend to post clips and snippets of quotes I like - one being snippets of President Donald J  Trumps Inaugural Address. And the "Resistance trolls" have started their attacks:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="blob:https://www.newyorkconservative.com/5e69002a-2cd1-42a7-a7e2-8dcbe0b0c809" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="blob:https://www.newyorkconservative.com/1d235957-be23-4e18-a4a8-0cc7eb2d72d0" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
