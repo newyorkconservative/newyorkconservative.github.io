@@ -11,8 +11,8 @@ permalink: >
 published: true
 post_date: 2020-04-07 08:34:02
 ---
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="blob:https://www.newyorkconservative.com/ac3dbbbc-7ce7-4a7d-b77a-ac32aceb49b0" alt=""/></figure>
+<!-- wp:image {"id":4984,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.newyorkconservative.com/wp-content/uploads/2020/04/China.jpg" alt="" class="wp-image-4984"/><figcaption>The Chinese Communist worker. Pop art retro vector illustration</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
