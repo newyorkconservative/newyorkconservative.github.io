@@ -9,6 +9,6 @@ permalink: >
 published: true
 post_date: 2020-04-29 08:28:43
 ---
-<!-- wp:image {"id":4995,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.newyorkconservative.com/wp-content/uploads/2020/04/ww2.jpg" alt="" class="wp-image-4995"/></figure>
+<!-- wp:image {"align":"center","id":4999,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://www.newyorkconservative.com/wp-content/uploads/2020/04/ww22.jpg" alt="" class="wp-image-4999"/></figure></div>
 <!-- /wp:image -->
