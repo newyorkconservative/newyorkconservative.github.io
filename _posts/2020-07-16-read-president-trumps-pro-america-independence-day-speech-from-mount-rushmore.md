@@ -28,10 +28,6 @@ post_date: 2020-07-16 16:23:52
 <p>As we begin this Fourth of July weekend, the first lady and I wish each and every one of you a very, very Happy Independence Day. Thank you. (Applause.)</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<figure><iframe width="300" height="250"></iframe></figure>
-<!-- /wp:html -->
-
 <!-- wp:paragraph -->
 <p>Let us show our appreciation to the South Dakota Army and Air National Guard, and the U.S. Air Force for inspiring us with that magnificent display of American air power — (applause) — and of course, our gratitude, as always, to the legendary and very talented Blue Angels. Thank you very much. (Applause.)</p>
 <!-- /wp:paragraph -->
@@ -47,10 +43,6 @@ post_date: 2020-07-16 16:23:52
 <!-- wp:paragraph -->
 <p>There could be no better place to celebrate America’s independence than beneath this magnificent, incredible, majestic mountain and monument to the greatest Americans who have ever lived.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<figure><iframe width="300" height="250"></iframe></figure>
-<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 <p>Today, we pay tribute to the exceptional lives and extraordinary legacies of George Washington, Thomas Jefferson, Abraham Lincoln, and Teddy Roosevelt. (Applause.) I am here as your president to proclaim before the country and before the world: This monument will never be desecrated — (applause) — these heroes will never be defaced, their legacy will never, ever be destroyed, their achievements will never be forgotten, and Mount Rushmore will stand forever as an eternal tribute to our forefathers and to our freedom. (Applause.)</p>
@@ -68,10 +60,6 @@ post_date: 2020-07-16 16:23:52
 <p>Our Founders launched not only a revolution in government, but a revolution in the pursuit of justice, equality, liberty, and prosperity. No nation has done more to advance the human condition than the United States of America. And no people have done more to promote human progress than the citizens of our great nation. (Applause.)</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<figure><iframe width="300" height="250"></iframe></figure>
-<!-- /wp:html -->
-
 <!-- wp:paragraph -->
 <p>It was all made possible by the courage of 56 patriots who gathered in Philadelphia 244 years ago and signed the Declaration of Independence. (Applause.) They enshrined a divine truth that changed the world forever when they said: “All men are created equal.”</p>
 <!-- /wp:paragraph -->
@@ -87,10 +75,6 @@ post_date: 2020-07-16 16:23:52
 <!-- wp:paragraph -->
 <p>And yet, as we meet here tonight, there is a growing danger that threatens every blessing our ancestors fought so hard for, struggled, they bled to secure.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<figure><iframe src="https://d2664989f1de96f23e4e04c78f287921.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html" width="300" height="600"></iframe></figure>
-<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 <p>Our nation is witnessing a merciless campaign to wipe out our history, defame our heroes, erase our values, and indoctrinate our children.</p>
