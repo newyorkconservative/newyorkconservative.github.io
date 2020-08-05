@@ -14,7 +14,7 @@ post_date: 2020-08-05 12:58:51
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>"The Antifa movement is a fascist movement. The enemy of this movement is not </p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
