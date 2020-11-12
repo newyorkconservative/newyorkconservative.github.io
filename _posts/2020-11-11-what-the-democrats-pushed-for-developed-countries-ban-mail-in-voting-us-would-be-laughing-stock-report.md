@@ -25,8 +25,6 @@ post_date: 2020-11-11 23:36:51
 <p>While politicians in the United States have been debating the pros and cons of mail-in voting due to concerns of spreading COVID-19 at the polls and new reports of postal service and vote counting issues, Lott, whose center is known for its gun research, built a voting database of the European Union and the larger Organization for Economic Co-operation and Development countries.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.washingtonexaminer.com/washington-secrets/developed-countries-ban-mail-in-voting-us-would-be-laughing-stock-report"} -->
-<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
-https://www.washingtonexaminer.com/washington-secrets/developed-countries-ban-mail-in-voting-us-would-be-laughing-stock-report
-</div></figure>
-<!-- /wp:embed -->
+<!-- wp:paragraph -->
+<p><a href="https://www.washingtonexaminer.com/washington-secrets/developed-countries-ban-mail-in-voting-us-would-be-laughing-stock-report">https://www.washingtonexaminer.com/washington-secrets/developed-countries-ban-mail-in-voting-us-would-be-laughing-stock-report</a></p>
+<!-- /wp:paragraph -->
