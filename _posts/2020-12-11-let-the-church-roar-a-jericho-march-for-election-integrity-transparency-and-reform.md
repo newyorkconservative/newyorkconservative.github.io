@@ -46,7 +46,3 @@ post_date: 2020-12-11 15:37:51
 https://uncoverdc.com/2020/12/10/on-the-occasion-of-the-jericho-march/
 </div></figure>
 <!-- /wp:core-embed/wordpress -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
