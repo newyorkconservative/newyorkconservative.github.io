@@ -91,11 +91,9 @@ https://www.thegatewaypundit.com/2020/11/saturdays-fun-fraud-facts-seven-unexpla
 </div></figure>
 <!-- /wp:embed -->
 
-<!-- wp:embed {"url":"https://spectator.us/reasons-why-the-2020-presidential-election-is-deeply-puzzling/"} -->
-<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
-https://spectator.us/reasons-why-the-2020-presidential-election-is-deeply-puzzling/
-</div></figure>
-<!-- /wp:embed -->
+<!-- wp:paragraph -->
+<p><a href="https://spectator.us/reasons-why-the-2020-presidential-election-is-deeply-puzzling/">https://spectator.us/reasons-why-the-2020-presidential-election-is-deeply-puzzling/</a></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:embed {"url":"https://spectator.org/legitimacy-of-biden-win-buried-by-objective-data/","type":"wp-embed","providerNameSlug":"the-american-spectator-usa-news-and-politics","className":""} -->
 <figure class="wp-block-embed is-type-wp-embed is-provider-the-american-spectator-usa-news-and-politics wp-block-embed-the-american-spectator-usa-news-and-politics"><div class="wp-block-embed__wrapper">
@@ -103,11 +101,9 @@ https://spectator.org/legitimacy-of-biden-win-buried-by-objective-data/
 </div></figure>
 <!-- /wp:embed -->
 
-<!-- wp:embed {"url":"https://thefederalist.com/2020/11/23/5-more-ways-joe-biden-magically-outperformed-election-norms/"} -->
-<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
-https://thefederalist.com/2020/11/23/5-more-ways-joe-biden-magically-outperformed-election-norms/
-</div></figure>
-<!-- /wp:embed -->
+<!-- wp:paragraph -->
+<p><a href="https://thefederalist.com/2020/11/23/5-more-ways-joe-biden-magically-outperformed-election-norms/">https://thefederalist.com/2020/11/23/5-more-ways-joe-biden-magically-outperformed-election-norms/</a></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:embed {"url":"https://stream.org/show-the-graphs-mr-president/","type":"wp-embed","providerNameSlug":"the-stream","className":""} -->
 <figure class="wp-block-embed is-type-wp-embed is-provider-the-stream wp-block-embed-the-stream"><div class="wp-block-embed__wrapper">
