@@ -11,8 +11,8 @@ permalink: >
 published: true
 post_date: 2020-12-17 12:30:30
 ---
-<!-- wp:image {"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="blob:https://www.newyorkconservative.com/b4baa98a-9e00-4580-8dcb-3e0e9954f6cd"><img src="blob:https://www.newyorkconservative.com/b4baa98a-9e00-4580-8dcb-3e0e9954f6cd" alt=""/></a></figure>
+<!-- wp:image {"id":5165,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://www.newyorkconservative.com/wp-content/uploads/2020/12/we-the-people.jpg"><img src="https://www.newyorkconservative.com/wp-content/uploads/2020/12/we-the-people.jpg" alt="" class="wp-image-5165"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
