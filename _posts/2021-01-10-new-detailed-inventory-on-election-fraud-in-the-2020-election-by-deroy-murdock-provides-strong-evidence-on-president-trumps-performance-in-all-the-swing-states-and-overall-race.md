@@ -19,6 +19,10 @@ post_date: 2021-01-10 15:56:37
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
+<p><strong>In every state (Arizona, Georgia, Michigan, Nevada, Pennsylvania and Wisconsin) there are more fraudulent ballots identified than there are votes Biden reportedly led Trump by.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>Deroy reported:</p>
 <!-- /wp:paragraph -->
 
@@ -31,7 +35,7 @@ post_date: 2021-01-10 15:56:37
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Beyond this chart, senators and House members of both parties should be chilled to their marrow by a December 22 letter signed by 19 members of Pennsylvania’s State Senate. In that document, and a December 28 news release by 17 of these legislators, they calculate that 202,377 more ballots were cast for president than there were voters who voted. This is called “stuffing the ballot box” and is the most basic and profound species of vote fraud.</p>
+<p>Beyond this chart, senators and House members of both parties should be chilled to their marrow by a December 22 letter signed by 19 members of Pennsylvania’s State Senate. In that document, and a&nbsp;December 28 news release&nbsp;by 17 of these legislators, they calculate that 202,377 more ballots were cast for president than there were voters who voted. This is called “stuffing the ballot box” and is the most basic and profound species of vote fraud.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:embed {"url":"https://wethepeoplejournal.org/new-detailed-inventory-on-election-fraud-in-the-2020-election-by-deroy-murdock-provides-strong-evidence-on-president-trumps-performance-in-all-the-swing-states-and-overall-race/","type":"wp-embed","providerNameSlug":"wethepeoplejournal-org","className":""} -->
