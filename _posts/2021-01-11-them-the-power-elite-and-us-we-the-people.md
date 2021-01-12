@@ -136,7 +136,7 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We are the American people, we are Trump supproters and we will not be dissappeared or silenced.</p>
+<p>We are the American people, we are Trump supporters and not only are we not going anywhere - we are advancing the line!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
