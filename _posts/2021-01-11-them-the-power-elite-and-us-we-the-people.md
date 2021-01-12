@@ -56,7 +56,7 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>They believe they can do whatever it takes to win.</p>
+<p>They believe in having zero controls and integrity at the ballot box.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
