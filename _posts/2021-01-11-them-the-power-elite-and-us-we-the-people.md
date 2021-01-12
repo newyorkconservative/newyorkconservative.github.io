@@ -104,6 +104,14 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>We stand for our flag with pride.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They are ashamed of our history.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>We believe in the right to bear arms to protect and defend our families.</p>
 <!-- /wp:paragraph -->
 
