@@ -64,6 +64,14 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>We believe in freedom and liberty for all.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They impose draconian and arbitrary lock downs on some but allow others to have more rights.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>We believe in border walls to protect our Nation and our families.</p>
 <!-- /wp:paragraph -->
 
@@ -112,7 +120,7 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We believe in the freedom of speech, discussion, dialogue and critical thinking.</p>
+<p>We believe in freedom of speech, discussion, dialogue and critical thinking.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
