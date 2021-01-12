@@ -64,6 +64,14 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>We believe that every legal vote should be counted.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They believe that rooting out fraud is a threat to our democracy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>We believe in freedom and liberty for all.</p>
 <!-- /wp:paragraph -->
 
