@@ -80,6 +80,14 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>We believe in having the strongest and most powerful military in the world.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They believe in a military industrial complex run amuck and funding endless wars.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>We believe in clean air and water and conserving our beautiful Nation.</p>
 <!-- /wp:paragraph -->
 
