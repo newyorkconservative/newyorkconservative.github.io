@@ -108,7 +108,7 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>They are ashamed of our history.</p>
+<p>They want to erase our history.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -192,5 +192,5 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Make America Great Again!</p>
+<p>This is 1776. Make America Great Again!</p>
 <!-- /wp:paragraph -->
