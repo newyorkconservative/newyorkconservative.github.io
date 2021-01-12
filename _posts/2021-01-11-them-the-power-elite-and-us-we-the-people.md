@@ -24,6 +24,10 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>75 million Americans will not be canceled or shamed into silence for loving America, putting America first and trying to Make America Great Again!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>I am just as much of a Trump supporter today (January 11th 2021) as I was when I saw him come down the escalator to announce his candidacy at Trump tower.</p>
 <!-- /wp:paragraph -->
 
