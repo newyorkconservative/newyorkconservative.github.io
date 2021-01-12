@@ -44,6 +44,14 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>We believe our rights come from God.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They believe our rights come from them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>We believe in border walls to protect our Nation and our families.</p>
 <!-- /wp:paragraph -->
 
@@ -129,6 +137,14 @@ post_date: 2021-01-11 22:39:53
 
 <!-- wp:paragraph -->
 <p>They believe in riots and political mob violence when it can further their agenda.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We believe in the miracle of life.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They believe in partial birth abortion.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
