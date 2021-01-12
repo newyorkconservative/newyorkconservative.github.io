@@ -192,11 +192,11 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We believe in charter schools and school choice.</p>
+<p>We believe in education for all Americans, charter schools and school choice.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>They believe in unconscious bias training and stirring racial resentment.</p>
+<p>They believe in unconscious bias training in the corporation and stirring racial resentment.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
