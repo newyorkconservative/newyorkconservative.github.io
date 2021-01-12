@@ -28,7 +28,7 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The hypocrites, the power elite and the street thugs do not intimidate me - they motivate me, vindicate my beliefs and make want to fight harder than ever before for the land that I love.</p>
+<p>The hypocrites, the power elite and the street thugs do not intimidate me - they motivate me, vindicate my beliefs and make want to fight harder than ever for the land that I love.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
