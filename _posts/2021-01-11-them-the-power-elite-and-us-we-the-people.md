@@ -16,7 +16,7 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Watching the utter hypocrisy and moral bankruptcy that is coming out of the media tonight I had to jot down a few thoughts.</p>
+<p>Watching the utter hypocrisy and moral bankruptcy that is coming out of the fake news media, I had to jot down a few thoughts.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
