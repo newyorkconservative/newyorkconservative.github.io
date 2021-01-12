@@ -52,6 +52,14 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>We believe that every person should have the right to vote.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They believe they can do whatever it takes to win.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>We believe in border walls to protect our Nation and our families.</p>
 <!-- /wp:paragraph -->
 
