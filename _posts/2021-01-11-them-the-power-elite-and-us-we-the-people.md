@@ -164,7 +164,7 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>They outsource our jobs, insource cheap labor and offshore our companies but make sure their own families and friends are taken care of.</p>
+<p>They outsource our jobs, in source cheap labor and offshore our companies but make sure their own families and friends are taken care of.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
