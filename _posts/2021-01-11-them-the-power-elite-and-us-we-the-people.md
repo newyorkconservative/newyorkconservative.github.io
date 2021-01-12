@@ -92,7 +92,7 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We believe in the freedom of speech and critical thought.</p>
+<p>We believe in the freedom of speech, discussion, dialogue and critical thought.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
