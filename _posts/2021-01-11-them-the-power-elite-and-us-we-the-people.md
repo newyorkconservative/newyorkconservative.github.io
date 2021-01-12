@@ -56,23 +56,23 @@ post_date: 2021-01-11 22:39:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>They believe in laundering tax payer money to their friends companies to fight "man made climate change" but take private airplanes and live in large mansions on ocean front properties.</p>
+<p>They believe in laundering tax payer money to their friends to fight "man made climate change" but take private airplanes and live in large mansions on ocean front properties.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We believe and back our local police departments who protect and serve our communities.</p>
+<p>We love, respect and back our local police departments who protect and serve our communities.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>They are againt the local police departments but have private security for themselves.</p>
+<p>They want to defund the police but have private security for themselves.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We believe in the right to bare arms to protect and defend our families.</p>
+<p>We believe in the right to bear arms to protect and defend our families.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>They are against the peoples right to bare arms but have armed private security.</p>
+<p>They are against the second amendment but have armed private security.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
