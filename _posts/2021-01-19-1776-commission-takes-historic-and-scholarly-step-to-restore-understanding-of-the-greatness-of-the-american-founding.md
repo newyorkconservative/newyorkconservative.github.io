@@ -21,10 +21,10 @@ post_date: 2021-01-19 14:41:04
 <p>1776 Commission—comprised of some of America’s most distinguished scholars and historians—has released a report presenting a definitive chronicle of the American founding, a powerful description of the effect&nbsp;the principles of the Declaration of Independence have had on this Nation’s history, and a dispositive rebuttal of reckless “re-education” attempts that seek to reframe American history around the idea that the United States is not an exceptional country but an evil one.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>A copy of the report can be found <a rel="noreferrer noopener" href="https://www.whitehouse.gov/wp-content/uploads/2021/01/The-Presidents-Advisory-1776-Commission-Final-Report.pdf" target="_blank">here</a>.</p>
-<!-- /wp:paragraph -->
+<!-- wp:file {"id":5235,"href":"https://www.newyorkconservative.com/wp-content/uploads/2021/01/The-Presidents-Advisory-1776-Commission-Final-Report.pdf"} -->
+<div class="wp-block-file"><a href="https://www.newyorkconservative.com/wp-content/uploads/2021/01/The-Presidents-Advisory-1776-Commission-Final-Report.pdf">The-Presidents-Advisory-1776-Commission-Final-Report</a><a href="https://www.newyorkconservative.com/wp-content/uploads/2021/01/The-Presidents-Advisory-1776-Commission-Final-Report.pdf" class="wp-block-file__button" download>Download</a></div>
+<!-- /wp:file -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.whitehouse.gov/briefings-statements/1776-commission-takes-historic-scholarly-step-restore-understanding-greatness-american-founding/">https://www.whitehouse.gov/briefings-statements/1776-commission-takes-historic-scholarly-step-restore-understanding-greatness-american-founding/</a></p>
+<p></p>
 <!-- /wp:paragraph -->
